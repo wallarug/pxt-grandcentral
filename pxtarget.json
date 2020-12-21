@@ -69,6 +69,7 @@
         "libs/adafruit-trinket-m0",
         "libs/adafruit-metro-m0-express",
         "libs/adafruit-metro-m4-express",
+        "libs/adafruit-grandcentral-m4",
         "libs/adafruit-itsybitsy-m0-express",
         "libs/adafruit-itsybitsy-m4-express",
         "libs/adafruit-itsybitsy-nrf52840-express",
