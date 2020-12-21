@@ -1,0 +1,39 @@
+{
+    "name": "adafruit-gemma-m0",
+    "description": "Support for Adafruit Gemma M0",
+    "files": [
+        "README.md",
+        "device.d.ts",
+        "config.ts",
+
+        "board.json",
+        "board.svg"
+    ],
+    "core": true,
+    "dependencies": {
+        "core---samd": "file:../core---samd",
+        "buttons": "file:../buttons",
+        "light": "file:../light",
+        "pixel": "file:../pixel",
+        "touch": "file:../touch",
+        "serial": "file:../serial"
+    },
+    "public": true,
+    "firmwareUrl": "https://learn.adafruit.com/adafruit-gemma-m0/uf2-bootloader-details#updating-the-bootloader",
+    "compileServiceVariant": "samd21",
+    "features": [
+        "uf2",
+        "pind0",
+        "pind1",
+        "pina0",
+        "pina1",
+        "buttond0",
+        "buttond1",
+        "touchd0",
+        "touchd1",
+        "light",
+        "pixel",
+        "jacdac",
+        "music"
+    ]
+}
