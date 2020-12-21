@@ -1,6 +1,6 @@
 {
-    "name": "adafruit-grand-central-m4-express",
-    "description": "Support for Adafruit Grand Central M4 Express",
+    "name": "adafruit-grandcentral-m4",
+    "description": "Support for Adafruit Grand Central M4",
     "files": [
         "README.md",
         "device.d.ts",
@@ -19,7 +19,7 @@
         "buttons": "file:../buttons"
     },
     "public": true,
-    "firmwareUrl": "https://learn.adafruit.com/introducing-adafruit-itsybitsy-m4#uf2-bootloader-details",
+    "firmwareUrl": "https://learn.adafruit.com/adafruit-grand-central/overview",
     "dalDTS": {
         "corePackage": "../core---samd51"
     },
