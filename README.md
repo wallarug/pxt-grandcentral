@@ -2,6 +2,8 @@
 
 This is an experimental code editor for maker boards - try it at https://maker.makecode.com.
 
+Repo for Adafruit Grand Central M4
+
 * [Read the docs](https://maker.makecode.com/about)
 
 ## Who is this for?
